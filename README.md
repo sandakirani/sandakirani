@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandakirani
+- 👋 Hi, I’m sandakirani
 - 👀 I’m interested in game development
 
 
