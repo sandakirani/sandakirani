@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sandakirani
-- 👀 I’m interested in game development
+- 👀 I’m interested in 3D modeling
 
 
 <!---
