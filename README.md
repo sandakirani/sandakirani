@@ -75,7 +75,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:vsandakirani@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="48"/>
+    <img src="assets/expo.jpg" height="48"/>
   </a>
 </p>
 
