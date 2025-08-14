@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="background.png" alt="Banner" width="100%" />
+  <img src="assets/background.png" alt="Banner" width="100%" />
 </p>
 
 
@@ -44,7 +44,8 @@
   <!-- CSS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Expo (use PNG fallback since devicon SVG is not available/public) -->
-  <a href="https://expo.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Expo_Icon.png" width="55" height="55" alt="Expo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Expo (local image) -->
+<a href="https://expo.dev/" target="_blank"><img src="assets/expo.png" width="55" height="55" alt="Expo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- JavaScript -->
