@@ -3,7 +3,7 @@
 </p>
 
 
-  <h1 align="center">Hi there, I'm Sandakirani 👋</h1>
+  <h1 align="center">Hi there, I'm Vihangi Sandakirani 👋</h1>
   <p>
     🌱 <b>4th Year Undergraduate at University of Kelaniya</b><br>
     🎓 Pursuing Electronic and Computer Science<br>
