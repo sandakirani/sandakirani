@@ -2,13 +2,12 @@
   <img src="assets/background.png" alt="Banner" width="100%" />
 </p>
 
-
-  <h1 align="center">Hi there, I'm Vihangi Sandakirani 👋</h1>
-  <p>
-    🌱 <b>4th Year Undergraduate at University of Kelaniya</b><br>
-    🎓 Pursuing Electronic and Computer Science<br>
-    🔎 Actively seeking internships in <b>Frontend Development, UI/UX Design, 3D Design, and AI/ML Engineering</b>
-  </p>
+<h1 align="center">Hi there, I'm Vihangi Sandakirani 👋</h1>
+<p>
+  🌱 <b>4th Year Undergraduate at University of Kelaniya</b><br>
+  🎓 Pursuing Electronic and Computer Science<br>
+  🔎 Actively seeking internships in <b>Frontend Development, UI/UX Design, 3D Design, and AI/ML Engineering</b>
+</p>
 
 ---
 
@@ -25,44 +24,36 @@
 ## Skills
 
 <p align="center">
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Blender -->
-  <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Canva -->
-  <a href="https://www.canva.com/" target="_blank"><img src="assets/Canva.png" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Android -->
-  <a href="https://www.android.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- C# -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Expo (use PNG fallback since devicon SVG is not available/public) -->
-  <!-- Expo (local image) -->
-<a href="https://expo.dev/" target="_blank"><img src="assets/expo.png" width="75" height="75" alt="Expo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Kotlin -->
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- PHP -->
-  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Postman -->
-  <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- SQLite -->
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Visual Studio -->
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55"/></a>
+  <!-- Row 1 -->
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" title="Java"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" title="React"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" title="JavaScript"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" title="HTML5"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" title="CSS3"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" title="MATLAB"/></a>
 </p>
+
+<p align="center">
+  <!-- Row 3 -->
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" title="MongoDB"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" title="SQLite"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" title="PHP"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" title="Postman"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" title="Visual Studio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" title="VS Code"/></a>
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" height="48" title="Blender"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" title="Figma"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.canva.com/" target="_blank"><img src="assets/Canva.png" height="40" title="Canva"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://expo.dev/" target="_blank"><img src="assets/expo.png" width="48" height="48" alt="Expo" title="Expo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.android.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" title="Android"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" title="Kotlin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" title="C#"/></a>
+</p>
+
 
 ---
 
