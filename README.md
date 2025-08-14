@@ -1,3 +1,8 @@
+<!-- Banner / Header (replace the link below with your own custom banner if desired) -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1000&q=80" alt="Banner" width="100%" />
+</p>
+
 # Hi there, I'm Sandakirani 👋
 
 🌱 **4th Year Undergraduate at University of Kelaniya**  
@@ -6,17 +11,17 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🖌️ **3D Designer at heart** — Blender enthusiast, passionate about bringing ideas to life in 3D
-- 💡 Fascinated by **AI/ML** and always exploring the latest in artificial intelligence
-- 🛡️ **Cybersecurity** is a growing interest — I love learning how digital worlds stay secure
-- 🖥️ **UI/UX & Frontend Developer** — Designing and building user-centric experiences
-- ✏️ **Storyteller & Artist** — I enjoy writing stories, drawing, and solving complex math equations!
+- 🖌️ **3D Designer at heart** — Blender enthusiast, passionate about bringing ideas to life in 3D  
+- 💡 Fascinated by **AI/ML** and always exploring the latest in artificial intelligence  
+- 🛡️ **Cybersecurity** is a growing interest — I love learning how digital worlds stay secure  
+- 🖥️ **UI/UX & Frontend Developer** — Designing and building user-centric experiences  
+- ✏️ **Storyteller & Artist** — I enjoy writing stories, drawing, and solving complex math equations!  
 
 ---
 
-## 🚀 Skills
+## Skills
 
 <p align="left">
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
@@ -29,14 +34,14 @@
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 <p align="left">
   <a href="https://linkedin.com/in/vihangi-sandakirani" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:vsandakirani@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
   </a>
 </p>
 
