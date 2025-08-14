@@ -1,6 +1,6 @@
 <!-- Banner / Header (replace the link below with your own custom banner if desired) -->
 <p align="center">
-  <img src="https://cdn.canva.com/design/DAGwEP-hi_4/oWbU2sAiqaFMidZ6BU0JLg/view?utm_content=DAGwEP-hi_4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner" width="100%" />
+  <img src="background.png" alt="Banner" width="100%" />
 </p>
 
 
