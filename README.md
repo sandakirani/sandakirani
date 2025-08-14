@@ -1,18 +1,14 @@
-<!-- Banner / Header (replace the link below with your own custom banner if desired) -->
 <p align="center">
   <img src="background.png" alt="Banner" width="100%" />
 </p>
 
-<div align="center">
 
-  <h1>Hi there, I'm Sandakirani 👋</h1>
+  <h1 align="center">Hi there, I'm Sandakirani 👋</h1>
   <p>
     🌱 <b>4th Year Undergraduate at University of Kelaniya</b><br>
     🎓 Pursuing Electronic and Computer Science<br>
     🔎 Actively seeking internships in <b>Frontend Development, UI/UX Design, 3D Design, and AI/ML Engineering</b>
   </p>
-
-</div>
 
 ---
 
@@ -47,8 +43,8 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- CSS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Expo -->
-  <a href="https://expo.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Expo (use PNG fallback since devicon SVG is not available/public) -->
+  <a href="https://expo.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Expo_Icon.png" width="55" height="55" alt="Expo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- JavaScript -->
