@@ -6,8 +6,8 @@
 <!-- Background color section -->
 <div style="background: linear-gradient(135deg, #e0eafc 0%, #cfdef3 100%); padding: 30px 0; border-radius: 16px;">
 
-  <h1 align="center" style="margin-bottom:0;">Hi there, I'm Sandakirani 👋</h1>
-  <p align="center" style="font-size: 1.2rem;">
+  <h1 align="center" style="margin-bottom:0;">Hi there 👋, I'm Vihangi Sandakirani </h1>
+  <p style="font-size: 1.2rem;">
     🌱 <b>4th Year Undergraduate at University of Kelaniya</b><br>
     🎓 Pursuing Electronic and Computer Science<br>
     🔎 Actively seeking internships in <b>Frontend Development, UI/UX Design, 3D Design, and AI/ML Engineering</b>
