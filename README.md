@@ -45,7 +45,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Expo (use PNG fallback since devicon SVG is not available/public) -->
   <!-- Expo (local image) -->
-<a href="https://expo.dev/" target="_blank"><img src="assets/expo.jpg" width="55" height="100" alt="Expo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://expo.dev/" target="_blank"><img src="assets/expo.jpg" width="1000" height="100" alt="Expo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- JavaScript -->
