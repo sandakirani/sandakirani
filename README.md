@@ -1,4 +1,4 @@
-# Hi there, I'm Vihangi Sandakirani 👋
+# Hi there, I'm Sandakirani 👋
 
 🌱 **4th Year Undergraduate at University of Kelaniya**  
 🎓 Pursuing Electronic and Computer Science  
@@ -18,10 +18,14 @@
 
 ## 🚀 Skills
 
-- **Languages & Frameworks:**  
-  `Java` | `React` | `Machine Learning`
-- **Design Tools:**  
-  `Blender` | `Figma` | `Canva`
+<p align="left">
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Machine Learning" width="40" height="40"/></a>
+  <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" height="40"/></a>
+</p>
 
 ---
 
