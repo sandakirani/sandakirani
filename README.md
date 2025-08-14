@@ -3,11 +3,17 @@
   <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1000&q=80" alt="Banner" width="100%" />
 </p>
 
-# Hi there, I'm Sandakirani 👋
+<!-- Background color section -->
+<div style="background: linear-gradient(135deg, #e0eafc 0%, #cfdef3 100%); padding: 30px 0; border-radius: 16px;">
 
-🌱 **4th Year Undergraduate at University of Kelaniya**  
-🎓 Pursuing Electronic and Computer Science  
-🔎 Actively seeking internships in **Frontend Development, UI/UX Design, 3D Design, and AI/ML Engineering**
+  <h1 align="center" style="margin-bottom:0;">Hi there, I'm Sandakirani 👋</h1>
+  <p align="center" style="font-size: 1.2rem;">
+    🌱 <b>4th Year Undergraduate at University of Kelaniya</b><br>
+    🎓 Pursuing Electronic and Computer Science<br>
+    🔎 Actively seeking internships in <b>Frontend Development, UI/UX Design, 3D Design, and AI/ML Engineering</b>
+  </p>
+
+</div>
 
 ---
 
@@ -23,28 +29,28 @@
 
 ## Skills
 
-<p align="left">
-  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Machine Learning" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" height="40"/></a>
+<p align="center">
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" height="55" style="margin: 0 20px;"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="55" height="55" style="margin: 0 20px;"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Machine Learning" width="55" height="55" style="margin: 0 20px;"/></a>
+  <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="55" height="55" style="margin: 0 20px;"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="55" height="55" style="margin: 0 20px;"/></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" height="55" style="margin: 0 20px;"/></a>
 </p>
 
 ---
 
 ## Contact Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/vihangi-sandakirani" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" height="48" style="margin: 0 20px;"/>
   </a>
   <a href="mailto:vsandakirani@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="48" style="margin: 0 20px;"/>
   </a>
 </p>
 
 ---
 
-*“Design is intelligence made visible.”*
+<p align="center"><i>“Design is intelligence made visible.”</i></p>
