@@ -36,7 +36,7 @@
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Canva -->
-  <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.canva.com/" target="_blank"><img src="assets/Canva.png" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Android -->
   <a href="https://www.android.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- C# -->
@@ -45,7 +45,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Expo (use PNG fallback since devicon SVG is not available/public) -->
   <!-- Expo (local image) -->
-<a href="https://expo.dev/" target="_blank"><img src="assets/expo.jpg" width="75" height="75" alt="Expo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://expo.dev/" target="_blank"><img src="assets/expo.png" width="75" height="75" alt="Expo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- JavaScript -->
@@ -75,7 +75,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:vsandakirani@gmail.com" target="_blank">
-    <img src="assets/expo.jpg" height="48"/>
+    <img src="assets/gmail.png" height="48"/>
   </a>
 </p>
 
