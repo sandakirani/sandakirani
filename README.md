@@ -12,10 +12,10 @@
 
 ---
 
-## About Me
+- ## About Me
 
 - 🖌️ **3D Designer at heart** — Blender enthusiast, passionate about bringing ideas to life in 3D  
-- 💡 Fascinated by **AI/ML** and always exploring the latest in artificial intelligence  
+- 💡 **AI/ML Learner** — I’m currently learning and exploring the latest in artificial intelligence and machine learning  
 - 🛡️ **Cybersecurity** is a growing interest — I love learning how digital worlds stay secure  
 - 🖥️ **UI/UX & Frontend Developer** — Designing and building user-centric experiences  
 - ✏️ **Storyteller & Artist** — I enjoy writing stories, drawing, and solving complex math equations!  
@@ -29,8 +29,6 @@
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Machine Learning (Python) -->
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Blender -->
   <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Figma -->
@@ -70,7 +68,7 @@
 
 ## Contact Me
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/vihangi-sandakirani" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="48"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
