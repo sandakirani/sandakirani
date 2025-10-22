@@ -6,7 +6,6 @@
 <p>
   🌱 <b>4th Year Undergraduate at University of Kelaniya</b><br>
   🎓 Pursuing Electronic and Computer Science<br>
-  🔎 Actively seeking internships in <b>Frontend Development, UI/UX Design, 3D Design, and AI/ML Engineering</b>
 </p>
 
 ---
